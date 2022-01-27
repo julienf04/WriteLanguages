@@ -1,0 +1,17 @@
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WriteLanguages.exe
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WriteLanguages.deps.json
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WriteLanguages.runtimeconfig.json
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WriteLanguages.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\ref\WriteLanguages.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WriteLanguages.pdb
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\WebDriver.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.AssemblyInfoInputs.cache
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.AssemblyInfo.cs
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.csproj.CoreCompileInputs.cache
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.csproj.CopyComplete
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\ref\WriteLanguages.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.pdb
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\obj\Release\net6.0\WriteLanguages.genruntimeconfig.cache

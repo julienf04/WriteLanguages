@@ -1,0 +1,7 @@
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WriteLanguages.exe
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WriteLanguages.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WriteLanguages.deps.json
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WriteLanguages.runtimeconfig.json
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WriteLanguages.pdb
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\julie\C# Proyetos\WriteLenguages\WriteLanguages\bin\Release\net6.0\publish\WebDriver.dll
